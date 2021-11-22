@@ -1,2 +1,2 @@
 # HConvNet
-HConvNet model
+HConvNet model on CIKM 2019 workshop
